@@ -1,8 +1,5 @@
-streamlit==1.29.0
-supabase==2.3.4
-python-dotenv==1.0.0
-openai==1.6.1
-Pillow==10.1.0
-postgrest==0.16.0
-storage3==0.7.4
-supafunc==0.3.4
+streamlit
+supabase
+python-dotenv
+openai
+Pillow
